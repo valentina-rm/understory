@@ -1,0 +1,28 @@
+{%- comment -%} Pass {% include header.html on_dark=true %} on dark hero pages {%- endcomment -%}
+<header class="site-header{% if include.on_dark %} is-on-dark{% endif %}">
+  <div class="shell header-row">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="UnderStory — home">
+      <svg class="mark" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M12 22V9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M12 9c0-3 2.4-5 5.4-5C16.8 7.6 14.6 9 12 9Z" fill="currentColor" opacity="0.55"/>
+        <path d="M12 11c0-3-2.4-5-5.4-5C7.2 9.6 9.4 11 12 11Z" fill="currentColor"/>
+        <circle cx="12" cy="3.4" r="1.5" fill="#c2762f"/>
+      </svg>
+      <span>UnderStory</span>
+    </a>
+
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Menu" data-nav-toggle>
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+        <path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+    </button>
+
+    <nav class="nav" id="site-nav" aria-label="Primary">
+      {%- for item in site.nav -%}
+        {%- assign here = false -%}
+        {%- if page.url contains item.url and item.url != "/" -%}{%- assign here = true -%}{%- endif -%}
+        <a href="{{ item.url | relative_url }}"{% if here %} aria-current="page"{% endif %}>{{ item.name }}</a>
+      {%- endfor -%}
+    </nav>
+  </div>
+</header>

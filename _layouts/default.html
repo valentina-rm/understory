@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" class="{% if page.dark_header %}has-dark-hero{% endif %}">
+<head>
+  {% include head.html %}
+</head>
+<body class="{{ page.body_class }}">
+  <a class="skip" href="#main">Skip to content</a>
+  {% include header.html on_dark=page.dark_header %}
+  <main id="main">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+</body>
+</html>

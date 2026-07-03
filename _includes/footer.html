@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="shell footer-row">
+    <div>
+      <div class="footer-brand">UnderStory</div>
+      <p class="footer-tag">{{ site.tagline }}</p>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      {%- for item in site.nav -%}
+        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {%- endfor -%}
+    </nav>
+  </div>
+  <div class="shell footer-fine">
+    <span>A living archive of constructive vision · est. {{ "now" | date: "%Y" }}</span>
+    <span>Curated by {{ site.author }}</span>
+  </div>
+</footer>

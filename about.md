@@ -1,0 +1,109 @@
+---
+layout: page
+title: What lives below
+eyebrow: About UnderStory
+lede: "Important ideas are brewing below what gets attention. This is a place to gather them before they surface."
+description: "The vision behind UnderStory, a gathering of voices across disciplines, generations, and regions."
+figure: /assets/img/scenery/understory-about.svg
+figure_alt: "A close view of the forest understory: ferns, a mossy log, and small mushrooms in dappled light."
+---
+
+In a forest, the understory is the layer beneath the canopy. It is shaded, easy to walk past, and it holds most of the life. The movements that change things often start there, in the quiet, rich soil at the edges.
+
+Ideas grow the same way. The thinking that shapes a decade rarely arrives in the headlines. It gathers first in the margins, outside the largest institutions and the usual consensus. UnderStory is the layer beneath the news, a place to collect that thinking, give it a shape, and read across it.
+
+## What it is
+
+A living archive of constructive vision, organised around three topics. Each one, a crisis that is also an opening.
+
+> From polycrisis to possibility.
+
+Our bond with the earth. Our bond with each other. Our bond with ourselves. Everyone answers the same small set of questions, so that very different people can be read side by side without being flattened into one voice.
+
+## Who's in the room
+
+The heart of UnderStory is who gets to speak. A scientist and a novelist. A musician and an investor. A film director and a sociologist. A person of twenty five and a person of seventy. Voices from Latin America, Africa, Asia, the Middle East, Europe, the UK, and the US.
+
+What someone has lived counts as much as what they have studied. A carpenter and a professor can sit on the same page. Fame is optional and depth is not. Difference here is not a problem to smooth over. It is the whole idea. A poet and a scientist answering the same question will often show you more than ten specialists trained the same way.
+
+## How it's curated
+
+Voices are chosen with care, for clarity and for a point of view you will not find everywhere. After that, we stay out of the way. Pieces run with a two line bio and no editing of the argument itself. A door for getting in touch is always open, and it opens wider as the archive grows.
+
+## Four values hold it together
+
+<div class="spec">
+  <div class="spec-row">
+    <dt>Intellectual honesty</dt>
+    <dd>No position is sacred and no credential is a shield. What matters is the quality of the argument, the courage to be wrong, and the grace to change your mind.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>Diversity as strength</dt>
+    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference is not a compromise. It is the method.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>Constructive imagination</dt>
+    <dd>Diagnosis without direction turns into paralysis. Critique is welcome, but every piece should point toward a better future. Never only "what is wrong?", but always also "what could be?"</dd>
+  </div>
+  <div class="spec-row">
+    <dt>Compassionate ethos</dt>
+    <dd>None of us chose where we were born, who raised us, or what world we arrived into. That thought is the root of solidarity, and the reason the common good is never just someone else's problem.</dd>
+  </div>
+</div>
+
+## Where it sits
+
+UnderStory learns from work it admires, and goes its own way where that work leaves a gap.
+
+<div class="spec">
+  <div class="spec-row">
+    <dt>Project Syndicate</dt>
+    <dd>A global forum for expert commentary. We keep its rigour, reach, and credibility, and let go of a register that can feel too elite, too narrow, too Western, too technocratic.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>Aeon</dt>
+    <dd>Long, thoughtful ideas across disciplines. We keep its depth, warmth, and range of voices, and add a little structure: shared questions, short and readable pieces, and voices that can be compared.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>The Club of Rome</dt>
+    <dd>Cross-disciplinary, systems thinking, patient with the long view, light on ego. We keep that spirit, and trade the formality and the events calendar for something more open and more diverse in lived experience.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>ASRA Network</dt>
+    <dd>A network rethinking risk in a time of overlapping global crises, holding the earth and its people together in one frame. We share that systems view and its care for more than the human, and reach for something more personal: voices and stories rather than tools and frameworks.</dd>
+  </div>
+</div>
+
+## Where it could go
+
+The archive is only the start. The longer view is a living record, and a community around it.
+
+<div class="spec">
+  <div class="spec-row">
+    <dt>A searchable living archive</dt>
+    <dd>A way to find patterns across hundreds of voices answering the same questions over years. How does the answer to "what is power?" shift between 2026 and 2036?</dd>
+  </div>
+  <div class="spec-row">
+    <dt>An annual gathering</dt>
+    <dd>Small, in person, warm. Contributors meet and the conversation carries on off the page.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>A commissioning platform</dt>
+    <dd>Pairing contributors to answer one another. A novelist replies to an economist. A musician replies to a scientist.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>A resource for classrooms</dt>
+    <dd>Clear questions and a genuine range of voices that teachers can actually use, a small answer to the sameness of most teaching material.</dd>
+  </div>
+  <div class="spec-row">
+    <dt>A signal</dt>
+    <dd>Over time, a place to notice ideas surfacing before they reach policy. A gentle early warning for what is coming.</dd>
+  </div>
+</div>
+
+<div class="curator-note">
+  <span class="eyebrow">A note on who's behind it</span>
+  <p>UnderStory is put together by Valentina Ramírez and Sophie Legros. Valentina has spent more than fifteen years in finance, several of them building bridges between capital markets and climate. She started UnderStory as a way to think beyond finance, at the scale this moment seems to ask for.</p>
+  <p>Sophie Legros studies how social norms change, and why some of them hold on. She holds a PhD from the London School of Economics, where her fieldwork followed the everyday sharing of work and care in Medellín. She works where research methods, gender, and the wellbeing economy meet.</p>
+  <p>But the project is not really about the two of us. It is about the voices it gathers. The best way to meet it is to read the index.</p>
+</div>

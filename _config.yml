@@ -1,0 +1,44 @@
+# =====================================================================
+# UnderStory — Jekyll configuration
+# =====================================================================
+title: UnderStory
+tagline: "A space for bold ideas and courageous voices brewing below the mainstream."
+description: >-
+  A curated intellectual commons exploring our bonds with the earth,
+  with each other, and with ourselves.
+author: Valentina Ramírez &amp; Sophie Legros
+email: "valentina.ramirez.m@protonmail.com"   # the "get in touch" link uses this; swap for a dedicated inbox if you prefer
+
+# --- URL -------------------------------------------------------------
+# If this lives at  valentina-rm.github.io/understory  (a project repo),
+# keep baseurl as "/understory".
+# If you give it its own Pages site or a custom domain
+# (e.g. understory.xyz), set baseurl to "" .
+url: "https://valentina-rm.github.io"
+baseurl: "/understory"
+
+# --- Build -----------------------------------------------------------
+markdown: kramdown
+permalink: pretty
+
+collections:
+  contributions:
+    output: true
+    permalink: /index/:name/
+
+defaults:
+  - scope: { path: "", type: "contributions" }
+    values: { layout: "contribution" }
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+
+# Nav order used by the header/footer includes
+nav:
+  - { name: "The Index", url: "/index/" }
+  - { name: "About",     url: "/about/" }
+  - { name: "Contribute", url: "/contribute/" }

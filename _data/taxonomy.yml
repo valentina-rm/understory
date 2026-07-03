@@ -1,0 +1,11 @@
+# Display labels for the two filter axes. Used by the index and by each
+# contribution page so the wording stays consistent everywhere.
+topics:
+  climate: "Climate & nature"
+  power: "Power & the commons"
+  meaning: "Meaning & connection"
+
+types:
+  misconception: "Misconception"
+  recommendation: "Recommendation"
+  vision: "Radical vision"

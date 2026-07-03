@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#f2f4ea"/>
+  <circle cx="80" cy="80" r="62" fill="#2e4633" opacity="0.16"/>
+  <circle cx="80" cy="80" r="62" fill="none" stroke="#2e4633" stroke-width="1.5" opacity="0.5"/>
+  <text x="80" y="82" font-family="Georgia, serif" font-size="54" fill="#2e4633" text-anchor="middle" dominant-baseline="central">A</text>
+  <text x="80" y="134" font-family="Helvetica, Arial, sans-serif" font-size="9" letter-spacing="2" fill="#2e4633" text-anchor="middle" opacity="0.7">PLACEHOLDER</text>
+</svg>

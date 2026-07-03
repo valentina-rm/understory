@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="section page-head">
+  <div class="shell">
+    <div class="page-head-grid{% if page.figure %} has-figure{% endif %}">
+      <header class="section-head rise">
+        {%- if page.eyebrow -%}<span class="eyebrow">{{ page.eyebrow }}</span>{%- endif -%}
+        <h1 class="page-title">{{ page.title }}</h1>
+        {%- if page.lede -%}<p class="lede">{{ page.lede }}</p>{%- endif -%}
+      </header>
+      {%- if page.figure -%}
+      <figure class="page-figure rise d1">
+        <img src="{{ page.figure | relative_url }}" alt="{{ page.figure_alt }}">
+      </figure>
+      {%- endif -%}
+    </div>
+    <div class="prose rise d1">
+      {{ content }}
+    </div>
+  </div>
+</article>

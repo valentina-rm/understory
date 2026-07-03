@@ -1,0 +1,60 @@
+---
+layout: default
+title: The Index
+permalink: /index/
+description: "Browse the archive by topic and by reflection type."
+---
+{%- assign pieces = site.contributions | sort: "date" | reverse -%}
+
+<section class="section index-head">
+  <div class="shell">
+    <header class="section-head rise">
+      <span class="eyebrow">The index</span>
+      <h1>A living archive.</h1>
+      <p class="lede">Every voice answered the same small set of questions. Read across them — by what they're thinking about, or by the kind of move they're making.</p>
+    </header>
+
+    <div class="filters rise d1" data-filters>
+      <div class="filter-group" role="group" aria-label="Filter by topic">
+        <span class="filter-label">Topic</span>
+        <button class="chip chip--topic" data-axis="topic" data-value="all" aria-pressed="true">All</button>
+        {%- for t in site.data.taxonomy.topics -%}
+          <button class="chip chip--topic" data-axis="topic" data-value="{{ t[0] }}" aria-pressed="false">{{ t[1] }}</button>
+        {%- endfor -%}
+      </div>
+      <div class="filter-group" role="group" aria-label="Filter by reflection type">
+        <span class="filter-label">Reflection</span>
+        <button class="chip chip--type" data-axis="type" data-value="all" aria-pressed="true">All</button>
+        {%- for t in site.data.taxonomy.types -%}
+          <button class="chip chip--type" data-axis="type" data-value="{{ t[0] }}" aria-pressed="false">{{ t[1] }}</button>
+        {%- endfor -%}
+      </div>
+    </div>
+
+    <p class="count" data-count aria-live="polite">{{ pieces | size }} pieces</p>
+
+    <div class="cards" data-cards>
+      {%- for p in pieces -%}
+        {%- assign topic_label = site.data.taxonomy.topics[p.topic] -%}
+        {%- assign type_label  = site.data.taxonomy.types[p.type] -%}
+        <article class="card" data-topic="{{ p.topic }}" data-type="{{ p.type }}">
+          <div class="card-meta">
+            <span class="tax tax--topic">{{ topic_label }}</span>
+            <span class="tax tax--type">{{ type_label }}</span>
+          </div>
+          <h2 class="q">{{ p.question }}</h2>
+          {%- if p.excerpt -%}<p class="excerpt">{{ p.excerpt }}</p>{%- endif -%}
+          <div class="byline">
+            <span class="who">{{ p.contributor }}</span>
+            <span class="read">Read →</span>
+          </div>
+          <a class="card-link" href="{{ p.url | relative_url }}" aria-label="Read: {{ p.question }} by {{ p.contributor }}"></a>
+        </article>
+      {%- endfor -%}
+    </div>
+
+    <div class="empty" data-empty>
+      <p>No pieces under that pairing yet. Clear a filter, or — if this is the conversation you've been waiting for — <a href="{{ '/contribute/' | relative_url }}">start it</a>.</p>
+    </div>
+  </div>
+</section>

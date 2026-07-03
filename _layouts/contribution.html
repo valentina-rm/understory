@@ -1,0 +1,73 @@
+---
+layout: default
+---
+{%- assign topic_label = site.data.taxonomy.topics[page.topic] -%}
+{%- assign type_label  = site.data.taxonomy.types[page.type] -%}
+
+<article class="piece">
+  <div class="shell">
+
+    <header class="piece-head rise">
+      <div class="piece-tax">
+        <a class="tax tax--topic" href="{{ '/index/' | relative_url }}?topic={{ page.topic }}">{{ topic_label }}</a>
+        <a class="tax tax--type"  href="{{ '/index/' | relative_url }}?type={{ page.type }}">{{ type_label }}</a>
+      </div>
+      <p class="piece-q">{{ page.question }}</p>
+    </header>
+
+    <div class="piece-body rise d1">
+      {{ content }}
+    </div>
+
+    {%- comment -%} ---- the contributor, beneath the voice ---- {%- endcomment -%}
+    <div class="contributor">
+      {%- if page.photo -%}
+        <img class="photo" src="{{ page.photo | relative_url }}" alt="{{ page.contributor }}">
+      {%- else -%}
+        <span class="photo" aria-hidden="true"></span>
+      {%- endif -%}
+      <div>
+        <p class="who">{{ page.contributor }}</p>
+        {%- if page.contributor_role -%}<p class="role">{{ page.contributor_role }}{% if page.location %} · {{ page.location }}{% endif %}</p>{%- endif -%}
+        <p class="bio">{{ page.bio }}</p>
+      </div>
+    </div>
+
+    {%- comment -%} ---- three book recommendations ---- {%- endcomment -%}
+    {%- if page.books and page.books.size > 0 -%}
+    <section class="shelf">
+      <span class="eyebrow">On my shelf — three I'd press into your hands</span>
+      <div class="books">
+        {%- for book in page.books limit:3 -%}
+          <div class="book">
+            <p class="title">{{ book.title }}</p>
+            {%- if book.author -%}<span class="author">{{ book.author }}</span>{%- endif -%}
+            {%- if book.note -%}<p class="note">{{ book.note }}</p>{%- endif -%}
+          </div>
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+
+    {%- comment -%} ---- a cartoon of their choice ---- {%- endcomment -%}
+    {%- if page.cartoon -%}
+    <section class="cartoon">
+      <figure>
+        <div class="frame">
+          <img src="{{ page.cartoon | relative_url }}" alt="{{ page.cartoon_caption | default: 'A cartoon chosen by the contributor' }}">
+        </div>
+        <figcaption>
+          <span>{{ page.cartoon_caption }}</span>
+          {%- if page.cartoon_credit -%}<span class="credit">{{ page.cartoon_credit }}</span>{%- endif -%}
+        </figcaption>
+      </figure>
+    </section>
+    {%- endif -%}
+
+    <nav class="piece-foot canopy-line">
+      <a href="{{ '/index/' | relative_url }}">← Back to the index</a>
+      <a href="{{ '/contribute/' | relative_url }}">Contribute a piece →</a>
+    </nav>
+
+  </div>
+</article>
