@@ -30,24 +30,28 @@ What someone has lived counts as much as what they have studied. A carpenter and
 
 Voices are chosen with care, for clarity and for a point of view you will not find everywhere. After that, we stay out of the way. Pieces run with a two line bio and no editing of the argument itself. A door for getting in touch is always open, and it opens wider as the archive grows.
 
-## Four values hold it together
+## Five values hold it together
 
 <div class="spec">
   <div class="spec-row">
-    <dt>Intellectual honesty</dt>
-    <dd>No position is sacred and no credential is a shield. What matters is the quality of the argument, the courage to be wrong, and the grace to change your mind.</dd>
+    <dt>Common humanity</dt>
+    <dd>None of us chose where we were born, who raised us, or the world we arrived into. That ought to make us slower to judge, quicker to care, and less inclined to treat the common good as someone else's problem.</dd>
   </div>
   <div class="spec-row">
     <dt>Diversity as strength</dt>
-    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference is not a compromise. It is the method.</dd>
+    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference here is not a concession, but part of the method.</dd>
   </div>
   <div class="spec-row">
     <dt>Constructive imagination</dt>
-    <dd>Diagnosis without direction turns into paralysis. Critique is welcome, but every piece should point toward a better future. Never only "what is wrong?", but always also "what could be?"</dd>
+    <dd>Critique is welcome, but it ought to lead somewhere. We are interested not only in what is wrong, but mostly in what could be made better. We want to make room for thought that is imaginative, bold, and not too bound by current assumptions.</dd>
   </div>
   <div class="spec-row">
-    <dt>Compassionate ethos</dt>
-    <dd>None of us chose where we were born, who raised us, or what world we arrived into. That thought is the root of solidarity, and the reason the common good is never just someone else's problem.</dd>
+    <dt>Intellectual honesty</dt>
+    <dd>No position is beyond question, and no credential is a defence. What matters is the quality of the argument, a willingness to be wrong, and a readiness to change one's mind.</dd>
+     </div>
+     <div class="spec-row">
+    <dt>Deep listening</dt>
+    <dd>Good conversation requires more than self-expression. It requires attention, patience, and a genuine openness to being persuaded.</dd>
   </div>
 </div>
 
