@@ -55,29 +55,6 @@ Voices are chosen with care, for clarity and for a point of view you will not fi
   </div>
 </div>
 
-## Where it sits
-
-UnderStory learns from work it admires, and goes its own way where that work leaves a gap.
-
-<div class="spec">
-  <div class="spec-row">
-    <dt>Project Syndicate</dt>
-    <dd>A global forum for expert commentary. We keep its rigour, reach, and credibility, and let go of a register that can feel too elite, too narrow, too Western, too technocratic.</dd>
-  </div>
-  <div class="spec-row">
-    <dt>Aeon</dt>
-    <dd>Long, thoughtful ideas across disciplines. We keep its depth, warmth, and range of voices, and add a little structure: shared questions, short and readable pieces, and voices that can be compared.</dd>
-  </div>
-  <div class="spec-row">
-    <dt>The Club of Rome</dt>
-    <dd>Cross-disciplinary, systems thinking, patient with the long view, light on ego. We keep that spirit, and trade the formality and the events calendar for something more open and more diverse in lived experience.</dd>
-  </div>
-  <div class="spec-row">
-    <dt>ASRA Network</dt>
-    <dd>A network rethinking risk in a time of overlapping global crises, holding the earth and its people together in one frame. We share that systems view and its care for more than the human, and reach for something more personal: voices and stories rather than tools and frameworks.</dd>
-  </div>
-</div>
-
 ## Where it could go
 
 The archive is only the start. The longer view is a living record, and a community around it.
