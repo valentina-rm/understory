@@ -86,9 +86,9 @@ The archive is only the start. The longer view is a living record, and a communi
   <span class="eyebrow">A note on who's behind it</span>
   <p>UnderStory is put together by Valentina Ramírez and Sophie Legros. Valentina has spent more than fifteen years in finance, several of them building bridges between capital markets and climate. She finds joy in singing and practicing capoeira, the Afro-Brazilian practice that is part game, part dance, part fight.</p>
 
-  <p>Sophie Legros studies how social norms change, and why some of them hold on. She holds a PhD from the London School of Economics, where her fieldwork followed the everyday sharing of work and care in Medellín. She works where research methods, gender, and the wellbeing economy meet. She finds peace practicing tai chi, a Chinese art of slow, flowing movement grounded in the Taoist idea of harmony with the natural flow of things.
+  <p>Sophie Legros studies how social norms change, and why some of them hold on. She holds a PhD from the London School of Economics, where her fieldwork followed the everyday sharing of work and care in Medellín. She works where research methods, gender, and the wellbeing economy meet. She finds peace practicing tai chi, a Chinese art of slow, flowing movement grounded in the Taoist idea of harmony with the natural flow of things.</p>
 
-  We started UnderStory as a way of opening our ongoing conversations to the world, and of gathering wise, generous, and constructive voices in a fractured time.</p>
+  <p>We started UnderStory as a way of opening our ongoing conversations to the world, and of gathering wise, generous, and constructive voices in a fractured time.</p>
 
-  <p>But the project is not really about the two of us. It is about the voices it gathers. The best way to meet it is to read the index.</p>
+  <p>But the project is not really about the two of us. It is about the voices it gathers. We invite you to read the index and get in touch if you want to connect and/or contribute.</p>
 </div>
