@@ -651,6 +651,7 @@ p  { margin: 0 0 1.1em; }
 @media (min-width: 900px) { .hero-figure { justify-self: end; } }
 .hero-figure img {
   width: 100%; max-width: 440px; border-radius: 16px; display: block;
+  aspect-ratio: 4 / 5; object-fit: cover;
   border: 1px solid rgba(242,244,234,0.14);
   box-shadow: 0 22px 60px rgba(0,0,0,0.45);
 }
