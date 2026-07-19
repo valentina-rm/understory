@@ -15,7 +15,7 @@ email: "valentina.ramirez.m@protonmail.com"   # the "get in touch" link uses thi
 # If you give it its own Pages site or a custom domain
 # (e.g. understory.xyz), set baseurl to "" .
 url: "https://valentina-rm.github.io"
-baseurl: "/understory"
+baseurl: ""
 
 # --- Build -----------------------------------------------------------
 markdown: kramdown
