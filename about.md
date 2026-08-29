@@ -2,33 +2,36 @@
 layout: page
 title: What lives below
 eyebrow: About UnderStory
-lede: "Important ideas are brewing below what gets attention. This is a place to gather them before they surface."
+lede: "Important ideas are brewing below what gets attention. This is a place to gather them so that they can gain force."
 description: "The vision behind UnderStory, a gathering of voices across disciplines, generations, and regions."
 figure: /assets/img/scenery/understory-about.svg
 figure_alt: "A close view of the forest understory: ferns, a mossy log, and small mushrooms in dappled light."
 ---
 
-In a forest, the understory is the layer beneath the canopy. It is shaded, easy to walk past, and it holds most of the life. The movements that change things often start there, in the quiet, rich soil at the edges.
+In a forest, the understory is the layer beneath the canopy. It is shaded and easy to walk past, yet it holds the conditions for a diverse range of species to grow, offering protection and regenerative potential. It provides the nutrient-rich environment needed for animals and plants to thrive. Some of the tallest trees in the forest can spend decades here first, in the quiet, rich soil underneath.
 
-Ideas grow the same way. The thinking that shapes a decade rarely arrives in the headlines. It gathers first in the margins, outside the largest institutions and the usual consensus. UnderStory is the layer beneath the news, a place to collect that thinking, give it a shape, and read across it.
+Ideas grow the same way. They need space and time to develop. The thinking that takes shape over a decade rarely arrives directly in the headlines. It gathers first in the margins, outside the largest institutions and the usual consensus. UnderStory is the layer beneath the news, a place to collect deep thinking, give it shape, and connect the dots.
 
 ## What it is
 
-A living archive of constructive vision, organised around three topics. Each one, a crisis that is also an opening.
+A living archive of constructive ideas, organised around three topics. Each one, a crisis that is also an opening.
 
 > From polycrisis to possibility.
 
-Our bond with the earth. Our bond with each other. Our bond with ourselves. Everyone answers the same small set of questions, so that very different people can be read side by side without being flattened into one voice.
+Our bond with the earth. Our bond with each other. Our bond with ourselves. Everyone answers from the same small set of questions, so that people with distinct ways of seeing the world can be read side by side. 
 
 ## Who's in the room
 
-The heart of UnderStory is who gets to speak. A scientist and a novelist. A musician and an investor. A film director and a sociologist. A person of twenty five and a person of seventy. Voices from Latin America, Africa, Asia, the Middle East, Europe, the UK, and the US.
+The heart of UnderStory is who gets to speak. A scientist and a novelist. A musician and an investor. A film director and a sociologist. A twenty-five-year-old and a seventy-five-year-old. Voices from Latin America, Africa, Asia, the Middle East, Europe, North America and Oceania.
 
-What someone has lived counts as much as what they have studied. A carpenter and a professor can sit on the same page. Fame is optional and depth is not. Difference here is not a problem to smooth over. It is the whole idea. A poet and a scientist answering the same question will often show you more than ten specialists trained the same way.
+What someone has lived counts as much as what they have studied. A carpenter and a professor can sit on the same page. Difference here is not a problem to even out. It is the whole point. A poet and a scientist answering the same question may reveal more than ten specialists trained in the same way. 
 
 ## How it's curated
 
-Voices are chosen with care, for clarity and for a point of view you will not find everywhere. After that, we stay out of the way. Pieces run with a two line bio and no editing of the argument itself. A door for getting in touch is always open, and it opens wider as the archive grows.
+We select voices that bring depth, clarity, and a distinct perspective, shaped by different cultures, disciplines, and ways of thinking.
+If writing isn't your thing, we can do it as an interview and write it up for you. After that, we stay out of the way. Entries run with a two-line bio and no editing of the argument itself.
+
+A door for getting in touch remains open. We're always looking for new voices as the archive grows.   
 
 ## Five values hold it together
 
@@ -39,11 +42,11 @@ Voices are chosen with care, for clarity and for a point of view you will not fi
   </div>
   <div class="spec-row">
     <dt>Diversity as strength</dt>
-    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference here is not a concession, but part of the method.</dd>
+    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference here is not a concession, but central to the method.</dd>
   </div>
   <div class="spec-row">
     <dt>Constructive imagination</dt>
-    <dd>Critique is welcome, but it ought to lead somewhere. We are interested not only in what is wrong, but mostly in what could be made better. We want to make room for thought that is imaginative, bold, and not too bound by current assumptions.</dd>
+    <dd>Critique is welcome, but it needs to lead somewhere. We are interested not only in what is wrong, but mostly in what could be made better. We want to make room for thought that is imaginative, corageous, and not too restricted by current assumptions.</dd>
   </div>
   <div class="spec-row">
     <dt>Intellectual honesty</dt>
@@ -66,7 +69,7 @@ The archive is only the start. The longer view is a living record, and a communi
   </div>
   <div class="spec-row">
     <dt>An annual gathering</dt>
-    <dd>Small, in person, warm. Contributors meet and the conversation carries on off the page.</dd>
+    <dd>Small, in-person events where contributors meet and conversations are carried off the page.</dd>
   </div>
   <div class="spec-row">
     <dt>A commissioning platform</dt>
@@ -76,9 +79,13 @@ The archive is only the start. The longer view is a living record, and a communi
     <dt>A resource for classrooms</dt>
     <dd>Clear questions and a genuine range of voices that teachers can actually use, a small answer to the sameness of most teaching material.</dd>
   </div>
+   <div class="spec-row">
+    <dt>A collective curriculum</dt>
+    <dd>Contributors are invited to sketch one piece of an ideal curriculum for a thriving future. Answer by answer, it could add up to a syllabus no single mind could write alone.</dd>
+  </div>
   <div class="spec-row">
     <dt>A signal</dt>
-    <dd>Over time, a place to notice ideas surfacing before they reach policy. A gentle early warning for what is coming.</dd>
+    <dd>Over time, a place to notice ideas surfacing before they reach policy. An early warning for what is coming.</dd>
   </div>
 </div>
 

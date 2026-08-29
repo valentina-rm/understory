@@ -2,13 +2,13 @@
 layout: page
 title: Find your way in
 eyebrow: Contribute
-lede: "UnderStory is invitation-only — but the door is never fully closed. If something is brewing in you, here's how it works."
+lede: "UnderStory is invitation-only, but the door is never fully closed. If an idea is brewing in you, here's how it works."
 description: "How to contribute to UnderStory — invitation-only, with a door left open."
 ---
 
-UnderStory launches by invitation. That isn't gatekeeping for its own sake — it's the editorial method. Every voice is chosen deliberately, so the archive holds together as a conversation rather than a feed. The bar is depth and wisdom, not credentials. Fame is optional; substance is not.
+UnderStory launches by invitation. Contributors' curation is our editorial method. Every voice is chosen deliberately, so the archive holds together as a conversation between authentic and diverse voices. We look for depth and wisdom, not necessarily credentials or recognition. 
 
-As the archive grows, applications open. Until then, this page is the door left open: if you read the index and think *I have the missing piece*, tell us.
+As the archive grows, applications open. Until then, this page is the door left open: if you read the index and think *I have the missing piece*, tell us. If writing isn't your thing, we can do it as an interview and write it up for you. 
 
 ## What a contribution looks like
 
@@ -43,11 +43,21 @@ We publish with no editorial interference. What you send, edited only by you, is
 
 ## The questions, again
 
-Each piece answers one prompt, paired from the two axes above. A few that recur:
+Each piece answers one prompt, paired from the two axes above.
 
-> What do most people get dangerously wrong about our relationship with the natural world?
-> If you could change one policy to value the commons, what would it be and why?
+> What do most people get radically wrong about our relationship with the natural world?
+> What policy, institutional, or cultural change would help societies live within the Earth's limits?
+> Describe a morning in 2050 in a society that has made its peace with nature. What changed?
+
+
+> What truth about power, inequality, race, or gender could help us heal our bond with each other?
+> What policy, institutional, or cultural change that would foster inclusive systems that strengthen social bonds?
+> What does shared prosperity actually look like in someone's daily life?
+
+> What are we getting wrong about what makes life meaningful, and who benefits from that confusion?
+> What policy, institutional, design or cultural change would help people thrive? 
 > It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?
+
 
 ## Get in touch
 
