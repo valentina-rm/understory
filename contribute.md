@@ -45,18 +45,18 @@ We publish with no editorial interference. What you send, edited only by you, is
 
 Each piece answers one prompt, paired from the two axes above.
 
-> What do most people get radically wrong about our relationship with the natural world?
-> What policy, institutional, or cultural change would help societies live within the Earth's limits?
-> Describe a morning in 2050 in a society that has made its peace with nature. What changed?
+>  · What do most people get radically wrong about our relationship with the natural world?
+>  · What policy, institutional, or cultural change would help societies live within the Earth's limits?
+>  · Describe a morning in 2050 in a society that has made its peace with nature. What changed?
 
 
-> What truth about power, inequality, race, or gender could help us heal our bond with each other?
-> What policy, institutional, or cultural change that would foster inclusive systems that strengthen social bonds?
-> What does shared prosperity actually look like in someone's daily life?
+>  · What truth about power, inequality, race, or gender could help us heal our bond with each other?
+>  · What policy, institutional, or cultural change that would foster inclusive systems that strengthen social bonds?
+>  · What does shared prosperity actually look like in someone's daily life?
 
-> What are we getting wrong about what makes life meaningful, and who benefits from that confusion?
-> What policy, institutional, design or cultural change would help people thrive? 
-> It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?
+>  · What are we getting wrong about what makes life meaningful, and who benefits from that confusion?
+>  · What policy, institutional, design or cultural change would help people thrive? 
+>  · It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?
 
 
 ## Get in touch
