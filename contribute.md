@@ -43,7 +43,7 @@ We publish with no editorial interference. What you send, edited only by you, is
 
 ## The questions, again
 
-Each piece answers one prompt, paired from the two axes above.
+Each piece answers one prompt.
 
 >  · What do most people get radically wrong about our relationship with the natural world?
 >  · What policy, institutional, or cultural change would help societies live within the Earth's limits?
