@@ -4,8 +4,8 @@ title: What lives below
 eyebrow: About UnderStory
 lede: "Important ideas are brewing below what gets attention. This is a place to gather them so that they can gain force."
 description: "The vision behind UnderStory, a gathering of voices across disciplines, generations, and regions."
-figure: /assets/img/scenery/understory-about.svg
-figure_alt: "A close view of the forest understory: ferns, a mossy log, and small mushrooms in dappled light."
+figure: /assets/img/scenery/understory-about.jpg
+figure_alt: "A dense forest understory in Colombia: ferns, moss-covered trunks, and broad dark leaves in filtered light."
 ---
 
 In a forest, the understory is the layer beneath the canopy. It is shaded and easy to walk past, yet it holds the conditions for a diverse range of species to grow, offering protection and regenerative potential. It provides the nutrient-rich environment needed for animals and plants to thrive. Some of the tallest trees in the forest can spend decades here first, in the quiet, rich soil underneath.
