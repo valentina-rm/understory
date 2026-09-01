@@ -50,7 +50,7 @@ Each piece answers one prompt, paired from a topic and a reflection type.
     <h3>Climate &amp; nature</h3>
     <div class="prompt-q"><span class="lbl">Misconception</span><p>What do most people get radically wrong about our relationship with the natural world?</p></div>
     <div class="prompt-q"><span class="lbl">Recommendation</span><p>What policy, institutional, or cultural change would help societies live within the Earth's limits?</p></div>
-    <div class="prompt-q"><span class="lbl">Radical vision</span><p>Describe a morning in 2050 in a society that has made its peace with nature. What changed?</p></div>
+    <div class="prompt-q"><span class="lbl">Radical vision</span><p>Describe a morning in 2045 in a society that has made its peace with nature. What changed?</p></div>
   </div>
   <div class="prompt-col">
     <h3>Power &amp; the commons</h3>
