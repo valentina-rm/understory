@@ -39,7 +39,8 @@ As the archive grows, applications open. Until then, this page is the door left 
   </div>
 </div>
 
-We publish with no editorial interference. What you send, edited only by you, is what appears.
+We publish with no editorial interference. What you send, edited only by you, is what appears. 
+We do ask that the thinking is genuinely yours. Feel free to use AI to edit and tidy your words if it helps, but we want the ideas to be your own.
 
 ## The questions, again
 
