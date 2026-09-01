@@ -43,20 +43,28 @@ We publish with no editorial interference. What you send, edited only by you, is
 
 ## The questions, again
 
-Each piece answers one prompt.
+Each piece answers one prompt, paired from a topic and a reflection type.
 
->  · What do most people get radically wrong about our relationship with the natural world?
->  · What policy, institutional, or cultural change would help societies live within the Earth's limits?
->  · Describe a morning in 2050 in a society that has made its peace with nature. What changed?
-
-
->  · What truth about power, inequality, race, or gender could help us heal our bond with each other?
->  · What policy, institutional, or cultural change that would foster inclusive systems that strengthen social bonds?
->  · What does shared prosperity actually look like in someone's daily life?
-
->  · What are we getting wrong about what makes life meaningful, and who benefits from that confusion?
->  · What policy, institutional, design or cultural change would help people thrive? 
->  · It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?
+<div class="prompts-set">
+  <div class="prompt-col">
+    <h3>Climate &amp; nature</h3>
+    <div class="prompt-q"><span class="lbl">Misconception</span><p>What do most people get radically wrong about our relationship with the natural world?</p></div>
+    <div class="prompt-q"><span class="lbl">Recommendation</span><p>What policy, institutional, or cultural change would help societies live within the Earth's limits?</p></div>
+    <div class="prompt-q"><span class="lbl">Radical vision</span><p>Describe a morning in 2050 in a society that has made its peace with nature. What changed?</p></div>
+  </div>
+  <div class="prompt-col">
+    <h3>Power &amp; the commons</h3>
+    <div class="prompt-q"><span class="lbl">Misconception</span><p>What truth about power, inequality, race, or gender could help us heal our bond with each other?</p></div>
+    <div class="prompt-q"><span class="lbl">Recommendation</span><p>What policy, institutional, or cultural change would foster inclusive systems that strengthen social bonds?</p></div>
+    <div class="prompt-q"><span class="lbl">Radical vision</span><p>What does shared prosperity actually look like in someone's daily life?</p></div>
+  </div>
+  <div class="prompt-col">
+    <h3>Meaning &amp; connection</h3>
+    <div class="prompt-q"><span class="lbl">Misconception</span><p>What are we getting wrong about what makes life meaningful, and who benefits from that confusion?</p></div>
+    <div class="prompt-q"><span class="lbl">Recommendation</span><p>What policy, institutional, design, or cultural change would help people thrive?</p></div>
+    <div class="prompt-q"><span class="lbl">Radical vision</span><p>It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?</p></div>
+  </div>
+</div>
 
 
 ## Get in touch
