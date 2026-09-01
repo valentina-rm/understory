@@ -26,8 +26,10 @@ cartoon_credit: "Placeholder · replace with the contributor's chosen image"
 
 *This is placeholder text that demonstrates how a contribution reads. Replace the whole body with the contributor's own 2,500-character response.*
 
-Change one rule: stop letting the word "ownership" mean only the right to exclude. Recognise, in law, a second kind of ownership — the right to *steward* and to *share* — and give it the same standing in court that exclusion enjoys today.
+This is and example xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
-Almost everything else follows. Who benefits from keeping the current rule in place? Whoever already holds the fences. The point of changing it is not to abolish property but to end its monopoly on the meaning of the word — so that care, agency, and the collective good have a legal footing, not just a moral one.
+This is an example xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
-A commons is not the absence of rules. It is the presence of better ones.
+This is an example.
+
+> Highlight example.

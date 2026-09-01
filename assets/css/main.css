@@ -491,6 +491,14 @@ p  { margin: 0 0 1.1em; }
 .piece { padding-top: 7rem; }
 .piece-head { max-width: var(--measure); margin: 0 auto; text-align: left; }
 .piece-tax { display: flex; gap: 0.5rem; margin-bottom: 1.4rem; flex-wrap: wrap; }
+.piece-title {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  line-height: 1.2;
+  color: var(--ink);
+  margin: 0.8rem 0 0;
+}
 .piece-q {
   font-family: var(--display); font-weight: 400; font-style: italic;
   font-size: clamp(1.5rem, 3.4vw, 2.3rem); line-height: 1.2; color: var(--canopy);

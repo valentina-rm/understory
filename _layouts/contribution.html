@@ -7,12 +7,13 @@ layout: default
 <article class="piece">
   <div class="shell">
 
-    <header class="piece-head rise">
+       <header class="piece-head rise">
       <div class="piece-tax">
         <a class="tax tax--topic" href="{{ '/index/' | relative_url }}?topic={{ page.topic }}">{{ topic_label }}</a>
         <a class="tax tax--type"  href="{{ '/index/' | relative_url }}?type={{ page.type }}">{{ type_label }}</a>
       </div>
       <p class="piece-q">{{ page.question }}</p>
+      {% if page.title %}<h1 class="piece-title">{{ page.title }}</h1>{% endif %}
     </header>
 
     <div class="piece-body rise d1">

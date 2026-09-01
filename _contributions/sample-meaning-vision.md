@@ -26,8 +26,10 @@ cartoon_credit: "Placeholder · replace with the contributor's chosen image"
 
 *This is placeholder text that demonstrates how a contribution reads. Replace the whole body with the contributor's own 2,500-character response.*
 
-It's 2045, and I'll describe it as if it already exists, because that is how it begins. What changed is small and total at once: we stopped treating belonging as a private achievement and started treating it as shared infrastructure — built, funded, maintained, like roads.
+This is and example xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
-Loneliness did not vanish. It simply stopped being the default setting. The third places came back — libraries that stay open, courtyards instead of corridors, time that isn't sold by the hour. People learned, again, to be unimpressive in company: to sit with each other without performing.
+This is an example xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
-What would I build if I knew it would not fail? Exactly this — and then I would tell no one it was mine.
+This is an example.
+
+> Highlight example.
