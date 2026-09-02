@@ -35,28 +35,28 @@ A door for getting in touch remains open. We're always looking for new voices as
 
 ## Five values hold it together
 
-<div class="spec">
-  <div class="spec-row">
-    <dt>Common humanity</dt>
-    <dd>None of us chose where we were born, who raised us, or the world we arrived into. That ought to make us slower to judge, quicker to care, and less inclined to treat the common good as someone else's problem.</dd>
+  <div class="spec">
+   <div class="spec-row">
+     <dt>Constructive imagination</dt>
+     <dd>Critique is welcome, but it needs to lead somewhere. We are interested not only in what is wrong, but mostly in what could be made better. We want to make room for thought that is imaginative, corageous, and not too restricted by current assumptions.</dd>
+   </div>
+   <div class="spec-row">
+     <dt>Diversity as strength</dt>
+     <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Here, difference is central to the method.</dd>
+   </div>
+   <div class="spec-row">
+     <dt>Intellectual honesty</dt>
+     <dd>No position is beyond question, and no credential is a defence. What someone has lived counts as much as what they have studied. What matters is the quality of the argument, a willingness to be wrong, and a readiness to change one's mind.</dd>
+   </div>
+    <div class="spec-row">
+     <dt>Common humanity</dt>
+     <dd>None of us chose the world we arrived into. That's good reason to judge less, care more, and treat the common good as everyone's responsibility.</dd>
+   </div>
+    <div class="spec-row">
+     <dt>Deep listening</dt>
+     <dd>Good conversation requires more than self-expression. It requires attention, patience, and a genuine openness to being persuaded.</dd>
+    </div>
   </div>
-  <div class="spec-row">
-    <dt>Diversity as strength</dt>
-    <dd>A poet and a scientist answering the same question may reveal more than ten people trained in the same discipline. Difference here is not a concession, but central to the method.</dd>
-  </div>
-  <div class="spec-row">
-    <dt>Constructive imagination</dt>
-    <dd>Critique is welcome, but it needs to lead somewhere. We are interested not only in what is wrong, but mostly in what could be made better. We want to make room for thought that is imaginative, corageous, and not too restricted by current assumptions.</dd>
-  </div>
-  <div class="spec-row">
-    <dt>Intellectual honesty</dt>
-    <dd>No position is beyond question, and no credential is a defence. What matters is the quality of the argument, a willingness to be wrong, and a readiness to change one's mind.</dd>
-     </div>
-     <div class="spec-row">
-    <dt>Deep listening</dt>
-    <dd>Good conversation requires more than self-expression. It requires attention, patience, and a genuine openness to being persuaded.</dd>
-  </div>
-</div>
 
 ## Where it could go
 
