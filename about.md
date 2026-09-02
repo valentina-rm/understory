@@ -100,4 +100,5 @@ The archive is only the start. The longer view is a living record, and a communi
   <p>We started UnderStory as a way of opening our ongoing conversations to the world, and of gathering wise, generous, and constructive voices in a fractured time.</p>
 
   <p>But the project is not really about the two of us. It is about the voices it gathers. We invite you to read the index and get in touch if you want to connect and/or contribute.</p>
-</div>
+
+ </div>
