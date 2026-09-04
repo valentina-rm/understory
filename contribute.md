@@ -29,7 +29,7 @@ If writing isn't your thing, we can do it as an interview and write it up with/f
   </div>
   <div class="spec-row">
     <dt>One image, optional</dt>
-    <dd>A cartoon, a chart, a photograph. Something to allustrate or build on your point.</dd>
+    <dd>A cartoon, a chart, a photograph. Something to illustrate or build on your point.</dd>
   </div>
   <div class="spec-row">
     <dt>A two-line bio</dt>
