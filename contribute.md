@@ -25,19 +25,19 @@ If writing isn't your thing, we can do it as an interview and write it up with/f
   </div>
   <div class="spec-row">
     <dt>2,500 characters or less</dt>
-    <dd>Prose, poetry, or a diagram. The constraint is the point.</dd>
+    <dd>Prose, poetry, or a diagram. In simple and accessible language.</dd>
   </div>
   <div class="spec-row">
     <dt>One image, optional</dt>
-    <dd>A cartoon, a chart, a photograph — something chosen, not decorative.</dd>
+    <dd>A cartoon, a chart, a photograph. Something to allustrate or build on your point.</dd>
   </div>
   <div class="spec-row">
     <dt>A two-line bio</dt>
-    <dd>Who you are, in your own words. Published as written.</dd>
+    <dd>Who you are, in your own words.</dd>
   </div>
   <div class="spec-row">
     <dt>Three books</dt>
-    <dd>Three you'd press into a stranger's hands. They travel with your piece.</dd>
+    <dd>Three titles you'd like more people to read.</dd>
   </div>
 </div>
 
