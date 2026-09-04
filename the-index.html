@@ -11,7 +11,7 @@ description: "Browse the archive by topic and by reflection type."
     <header class="section-head rise">
       <span class="eyebrow">The index</span>
       <h1>A living archive.</h1>
-      <p class="lede">Every voice answered the same small set of questions. Read across them — by what they're thinking about, or by the kind of move they're making.</p>
+      <p class="lede">Every voice answered the same small set of questions. Browse by topic (climate & nature, power & the commons, meaning & connection), or by the type of reflection (misconception, recommendation, or radical vision).</p>
     </header>
 
     <div class="filters rise d1" data-filters>
@@ -23,7 +23,7 @@ description: "Browse the archive by topic and by reflection type."
         {%- endfor -%}
       </div>
       <div class="filter-group" role="group" aria-label="Filter by reflection type">
-        <span class="filter-label">Reflection</span>
+        <span class="filter-label">Type of Reflection</span>
         <button class="chip chip--type" data-axis="type" data-value="all" aria-pressed="true">All</button>
         {%- for t in site.data.taxonomy.types -%}
           <button class="chip chip--type" data-axis="type" data-value="{{ t[0] }}" aria-pressed="false">{{ t[1] }}</button>
