@@ -65,7 +65,8 @@ The archive is only the start. The longer view is a living record, and a communi
 <div class="spec">
   <div class="spec-row">
     <dt>A searchable living archive</dt>
-    <dd>A way to find patterns across hundreds of voices answering the same questions over years. How does the answer to "what is power?" shift between 2026 and 2036?</dd>
+    <dd>A way to find patterns across hundreds of voices answering the same questions over years. 
+    For example, entries might reveal how the sense of "enough", "trust", or "belonging" shifts across generations and over time.</dd>
   </div>
   <div class="spec-row">
     <dt>An annual gathering</dt>
