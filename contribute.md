@@ -2,13 +2,13 @@
 layout: page
 title: Find your way in
 eyebrow: Contribute
-lede: "UnderStory is invitation-only, but the door is never fully closed. If an idea is brewing in you, here's how it works."
-description: "How to contribute to UnderStory — invitation-only, with a door left open."
+lede: "UnderStory is invitation-only, but the door remains open. If you have an idea to share, here's how it works."
+description: "How to contribute to UnderStory. Invitation-only (for now), with an open door."
 ---
 
-UnderStory launches by invitation. Contributors' curation is our editorial method. Every voice is chosen deliberately, so the archive holds together as a conversation between authentic and diverse voices. We look for depth and wisdom, not necessarily credentials or recognition. 
+UnderStory launches by invitation. Every voice is chosen deliberately, so the archive feels like a real conversation between authentic and genuinely diverse voices. We look for depth and wisdom, not necessarily credentials or prestige. Here, the lived experience counts as much as an academic title.
 
-As the archive grows, applications open. Until then, this page is the door left open: if you read the index and think *I have the missing piece*, tell us. If writing isn't your thing, we can do it as an interview and write it up for you. 
+This page is the door left open: if you read the index and feel like you have something to add, tell us. If writing isn't your thing, we can do it as an interview and write it up with/for you. 
 
 ## What a contribution looks like
 
@@ -39,7 +39,7 @@ As the archive grows, applications open. Until then, this page is the door left 
   </div>
 </div>
 
-We publish with no editorial interference. What you send, edited only by you, is what appears. 
+We aim to publish with no editorial interference. We choose our contributors, so we respect their voice.
 We do ask that the thinking is genuinely yours. Feel free to use AI to edit and tidy your words if it helps, but we want the ideas to be your own.
 
 ## The questions, again
