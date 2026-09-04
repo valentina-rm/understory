@@ -8,7 +8,9 @@ description: "How to contribute to UnderStory. Invitation-only (for now), with a
 
 UnderStory launches by invitation. Every voice is chosen deliberately, so the archive feels like a conversation between authentic and diverse voices. We look for depth and wisdom, not necessarily credentials or prestige. Here, the lived experience counts as much as an academic title.
 
-This page is the door left open: if you read the index and feel like you have something to add, tell us. If writing isn't your thing, we can do it as an interview and write it up with/for you. 
+This page is the door left open: if you read the index and feel like you have something to add, tell us. 
+
+If writing isn't your thing, we can do it as an interview and write it up with/for you. 
 
 ## What a contribution looks like
 
@@ -40,6 +42,7 @@ This page is the door left open: if you read the index and feel like you have so
 </div>
 
 We aim to publish with no editorial interference. We choose our contributors, so we respect their voice.
+
 We do ask that the thinking is genuinely yours. Feel free to use AI to edit and tidy your words if it helps, but we want the ideas to be your own.
 
 ## The questions, again
