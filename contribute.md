@@ -6,7 +6,7 @@ lede: "UnderStory is invitation-only, but the door remains open. If you have an 
 description: "How to contribute to UnderStory. Invitation-only (for now), with an open door."
 ---
 
-UnderStory launches by invitation. Every voice is chosen deliberately, so the archive feels like a real conversation between authentic and genuinely diverse voices. We look for depth and wisdom, not necessarily credentials or prestige. Here, the lived experience counts as much as an academic title.
+UnderStory launches by invitation. Every voice is chosen deliberately, so the archive feels like a conversation between authentic and diverse voices. We look for depth and wisdom, not necessarily credentials or prestige. Here, the lived experience counts as much as an academic title.
 
 This page is the door left open: if you read the index and feel like you have something to add, tell us. If writing isn't your thing, we can do it as an interview and write it up with/for you. 
 
