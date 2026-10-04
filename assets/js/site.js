@@ -41,6 +41,7 @@
       var okTopic = state.topic === "all" || card.dataset.topic === state.topic;
       var cardTypes = (card.dataset.type || "").split(" ");
       var okType = state.type === "all" || cardTypes.indexOf(state.type) !== -1;
+      var show = okTopic && okType;
       card.style.display = show ? "" : "none";
       if (show) shown++;
     });
