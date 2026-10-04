@@ -28,7 +28,7 @@ I think what we're getting wrong, is we're not orienting our lives around meanin
 
 **Recommendation**
 
-I couldn't think of only one change to help people thrive, so I'm going to throw out a bunch of words. Movement. Education. Nature. Real food. Sleep hygiene. Dance. Touch. Play. Soil. Healing. Trauma education. Trees. Interdependence. Communication skills. Feeling. Togetherness. Okay, that's enough. Now we can mix that all in a big blender, and pour it over everything from the macro to the micro; the globe, societies, families, and individuals. BOOM! Vamos ver.
+I couldn't think of only one change to help people thrive, so I'm going to throw out a bunch of words. Movement. Education. Nature. Real food. Sleep hygiene. Dance. Touch. Play. Soil. Healing. Trauma education. Trees. Interdependence. Communication skills. Feeling. Togetherness. Okay, that's enough. Now we can mix that all in a big blender, and pour it over everything from the macro to the micro; the globe, societies, families, and individuals. BOOM! Vamos a ver.
 
 **Radical vision**
 
