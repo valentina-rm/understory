@@ -29,9 +29,8 @@ layout: default
       {%- endif -%}
       <div>
         <p class="who">{{ page.contributor }}</p>
-        {%- if page.contributor_role -%}<p class="role">{{ page.contributor_role }}{% if page.location %} · {{ page.location }}{% endif %}</p>{%- endif -%}
-        <p class="bio">{{ page.bio }}</p>
-      </div>
+        {%- if page.contributor_role -%}<p class="role">{{ page.contributor_role }}{% if page.based %} · based in {{ page.based }}{% endif %}</p>{%- endif -%}
+        {%- if page.shaped_by -%}<p class="role role--places">Shaped by {{ page.shaped_by | join: " · " }}</p>{%- endif -%}      </div>
     </div>
 
     {%- comment -%} ---- three book recommendations ---- {%- endcomment -%}
