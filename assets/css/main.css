@@ -506,6 +506,18 @@ p  { margin: 0 0 1.1em; }
   font-size: clamp(1.5rem, 3.4vw, 2.3rem); line-height: 1.2; color: var(--canopy);
   margin: 0;
 }
+/* wider reading column — entry pages only */
+.piece .shell { max-width: 60rem; }
+.piece .piece-head,
+.piece .piece-body { max-width: none; }
+
+/* smaller questions, sitting above the title */
+.piece-q { font-size: clamp(1rem, 1.6vw, 1.2rem); }
+
+/* contributor block without a photo */
+.contributor--nophoto { display: block; }
+.contributor--nophoto .bio { margin-top: 0.8rem; font-size: 0.95rem; font-style: italic; }
+
 .piece-body {
   max-width: var(--measure); margin: 2.6rem auto 0;
   font-family: var(--read);

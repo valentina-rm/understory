@@ -46,7 +46,7 @@ description: "Browse the archive by topic and by reflection type."
               <span class="tax tax--type">{{ site.data.taxonomy.types[p.type | join: ""] }}</span>
             {%- endif -%}
           </div>
-          <h2 class="q">{{ p.question }}</h2>
+          <h2 class="q">{{ p.title | default: p.question }}</h2>
           {%- if p.excerpt -%}<p class="excerpt">{{ p.excerpt }}</p>{%- endif -%}
           <div class="byline">
             <span class="who">{{ p.contributor }}</span>
