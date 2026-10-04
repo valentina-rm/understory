@@ -39,8 +39,8 @@
     var shown = 0;
     cards.forEach(function (card) {
       var okTopic = state.topic === "all" || card.dataset.topic === state.topic;
-      var okType = state.type === "all" || card.dataset.type === state.type;
-      var show = okTopic && okType;
+      var cardTypes = (card.dataset.type || "").split(" ");
+      var okType = state.type === "all" || cardTypes.indexOf(state.type) !== -1;
       card.style.display = show ? "" : "none";
       if (show) shown++;
     });

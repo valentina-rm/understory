@@ -37,10 +37,14 @@ description: "Browse the archive by topic and by reflection type."
       {%- for p in pieces -%}
         {%- assign topic_label = site.data.taxonomy.topics[p.topic] -%}
         {%- assign type_label  = site.data.taxonomy.types[p.type] -%}
-        <article class="card" data-topic="{{ p.topic }}" data-type="{{ p.type }}">
+        {%- assign type_list = p.type | join: " " -%}
+        <article class="card" data-topic="{{ p.topic }}" data-type="{{ type_list }}">
           <div class="card-meta">
-            <span class="tax tax--topic">{{ topic_label }}</span>
-            <span class="tax tax--type">{{ type_label }}</span>
+            {%- if p.type.size > 1 -%}
+              <span class="tax tax--type">Complete set</span>
+            {%- else -%}
+              <span class="tax tax--type">{{ site.data.taxonomy.types[p.type | join: ""] }}</span>
+            {%- endif -%}
           </div>
           <h2 class="q">{{ p.question }}</h2>
           {%- if p.excerpt -%}<p class="excerpt">{{ p.excerpt }}</p>{%- endif -%}

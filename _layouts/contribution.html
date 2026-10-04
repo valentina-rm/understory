@@ -7,13 +7,27 @@ layout: default
 <article class="piece">
   <div class="shell">
 
-       <header class="piece-head rise">
+    <header class="piece-head rise">
       <div class="piece-tax">
-        <a class="tax tax--topic" href="{{ '/index/' | relative_url }}?topic={{ page.topic }}">{{ topic_label }}</a>
-        <a class="tax tax--type"  href="{{ '/index/' | relative_url }}?type={{ page.type }}">{{ type_label }}</a>
+        <a class="tax tax--topic" href="{{ '/index/' | relative_url }}?topic={{ page.topic }}">{{ site.data.taxonomy.topics[page.topic] }}</a>
+        {%- if page.type.size > 1 -%}
+          <span class="tax tax--type">Complete set</span>
+        {%- else -%}
+          {%- assign t = page.type | join: "" -%}
+          <a class="tax tax--type" href="{{ '/index/' | relative_url }}?type={{ t }}">{{ site.data.taxonomy.types[t] }}</a>
+        {%- endif -%}
       </div>
-      <p class="piece-q">{{ page.question }}</p>
       {% if page.title %}<h1 class="piece-title">{{ page.title }}</h1>{% endif %}
+      {%- if page.type.size > 1 -%}
+        <div class="piece-questions">
+          <span class="eyebrow eyebrow--sun">This piece moves through all three reflections</span>
+          {%- for t in page.type -%}
+            <p class="piece-q">{{ site.data.taxonomy.types[t] }} : {{ page.questions[t] }}</p>
+          {%- endfor -%}
+        </div>
+      {%- else -%}
+        <p class="piece-q">{{ page.question }}</p>
+      {%- endif -%}
     </header>
 
     <div class="piece-body rise d1">
