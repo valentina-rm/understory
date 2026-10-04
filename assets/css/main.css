@@ -507,7 +507,7 @@ p  { margin: 0 0 1.1em; }
   margin: 0;
 }
 /* wider reading column — entry pages only */
-.piece .shell { max-width: 74rem; }
+.piece .shell { max-width: 70rem; }
 .piece .piece-head,
 .piece .piece-body { max-width: none; }
 

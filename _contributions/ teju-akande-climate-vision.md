@@ -8,6 +8,7 @@ topic: climate
 type: [vision]
 question: "Describe a morning in 2050 in a society that has made its peace with nature. What changed?"
 title: "When electricity became something we could store"
+bio: "I work at the intersection of energy systems, capital allocation and the shift to a lower carbon economy. As a writer and strategist, I write about the economic realities of the energy transition, especially where the narrative split from the data. My ultimate focus is forward-looking. I write to shape the future we want, to inspire the next generation of world-builders, reframing climate change not as an inevitable doom, but as an invitation to construct a better world."
 excerpt: "A grandmother in 2050 Lagos tells her granddaughter about the age of diesel generators, and the African battery breakthrough that ended it."
 date: 2026-10-04
 books:
