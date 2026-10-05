@@ -459,7 +459,7 @@ p  { margin: 0 0 1.1em; }
 .card:hover { transform: translateY(-3px); box-shadow: 0 22px 40px -28px rgba(20,31,23,0.55); border-color: var(--lichen); }
 .card .card-meta { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; }
 .tax {
-  font-family: var(--ui); font-weight: 600; font-size: 0.58rem; letter-spacing: 0.1em;
+  font-family: var(--ui); font-weight: 600; font-size: 0.56rem; letter-spacing: 0.1em;
   text-transform: uppercase; padding: 0.22rem 0.5rem; border-radius: 5px;
 }
 .tax--topic { background: rgba(46,70,51,0.10); color: var(--canopy); }
