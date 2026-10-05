@@ -12,7 +12,7 @@ questions:
   vision: "It's 2045. Something has shifted in how humans relate to each other and to themselves. What changed?"
 title: "Forgotten to Remember"
 bio: "Name's Ramin. Born and raised in North London. Persian blood running through my veins, Iranian culture in my home, and years of my life spent here, there, and everywhere! I enjoy a good dance, lots of movement and play. I love my friends, a good belly laugh, AND food! If I can have my days with all of the things I just mentioned, preferably in that sort of order, then I'm a pretty happy bunny :)"
-excerpt: "On how we forgot that 'meaning' once meant the act of remembering, and a roses-left-right-and-centre vision of what thriving could feel like."
+excerpt: "On how we forgot that 'meaning' once meant the act of remembering, and a vision of a world where we take the time to notice things and communicate from the heart."
 date: 2026-10-04
 books:
   - title: "Lost Connections"
